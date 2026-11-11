@@ -1,0 +1,4 @@
+severity,scenario_count,percentage
+SAFE,542,54.2
+WARNING,357,35.7
+CRITICAL,101,10.1

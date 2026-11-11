@@ -1,0 +1,4 @@
+architecture,scenarios,average_latency_ms,minimum_latency_ms,maximum_latency_ms,network_delay_ms,processing_delay_ms,transmission_delay_ms,queue_delay_ms,propagation_delay_ms,difference_from_cloud_ms,percentage_difference_from_cloud
+Cloud,1000,36.934,31.699,45.255,32.147,4.787,0.239,11.908,20.0,0.0,0.0
+Edge,1000,4.738,3.699,7.007,3.55,1.189,0.048,1.502,2.0,-32.196,-87.17
+Fog,1000,15.298,12.971,19.664,12.919,2.379,0.12,4.799,8.0,-21.636,-58.58

@@ -1,0 +1,16 @@
+architecture,packet_size_kb,transmission_delay_ms
+Cloud,1,0.08
+Cloud,2,0.16
+Cloud,3,0.24000000000000002
+Cloud,4,0.32
+Cloud,5,0.4
+Fog,1,0.04
+Fog,2,0.08
+Fog,3,0.12000000000000001
+Fog,4,0.16
+Fog,5,0.2
+Edge,1,0.016
+Edge,2,0.032
+Edge,3,0.048
+Edge,4,0.064
+Edge,5,0.08
